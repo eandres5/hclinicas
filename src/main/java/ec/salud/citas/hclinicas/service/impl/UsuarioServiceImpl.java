@@ -3,7 +3,7 @@ package ec.salud.citas.hclinicas.service.impl;
 
 import ec.salud.citas.hclinicas.dto.ActualizarUsuarioRequest;
 import ec.salud.citas.hclinicas.dto.CrearUsuarioRequest;
-import ec.salud.citas.hclinicas.dto.PageResponse;
+import ec.salud.citas.hclinicas.dto.response.PageResponse;
 import ec.salud.citas.hclinicas.dto.UsuarioResponse;
 import ec.salud.citas.hclinicas.entity.Rol;
 import ec.salud.citas.hclinicas.entity.Usuario;

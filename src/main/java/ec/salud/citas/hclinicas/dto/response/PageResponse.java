@@ -1,4 +1,4 @@
-package ec.salud.citas.hclinicas.dto;
+package ec.salud.citas.hclinicas.dto.response;
 
 import lombok.Builder;
 import lombok.Data;

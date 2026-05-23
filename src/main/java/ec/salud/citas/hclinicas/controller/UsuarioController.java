@@ -1,6 +1,8 @@
 package ec.salud.citas.hclinicas.controller;
 
 import ec.salud.citas.hclinicas.dto.*;
+import ec.salud.citas.hclinicas.dto.response.ApiResponse;
+import ec.salud.citas.hclinicas.dto.response.PageResponse;
 import ec.salud.citas.hclinicas.service.UsuarioService;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.validation.Valid;

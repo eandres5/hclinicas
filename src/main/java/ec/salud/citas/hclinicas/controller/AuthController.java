@@ -1,7 +1,7 @@
 package ec.salud.citas.hclinicas.controller;
 
 
-import ec.salud.citas.hclinicas.dto.ApiResponse;
+import ec.salud.citas.hclinicas.dto.response.ApiResponse;
 import ec.salud.citas.hclinicas.dto.LoginRequest;
 import ec.salud.citas.hclinicas.dto.LoginResponse;
 import ec.salud.citas.hclinicas.service.AuthService;

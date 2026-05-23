@@ -2,6 +2,7 @@ package ec.salud.citas.hclinicas.service.impl;
 
 
 import ec.salud.citas.hclinicas.dto.*;
+import ec.salud.citas.hclinicas.dto.response.PageResponse;
 import ec.salud.citas.hclinicas.entity.Paciente;
 import ec.salud.citas.hclinicas.enumerado.EstadoPaciente;
 import ec.salud.citas.hclinicas.exception.RecursoNoEncontradoException;

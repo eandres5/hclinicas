@@ -2,6 +2,7 @@ package ec.salud.citas.hclinicas.service;
 
 
 import ec.salud.citas.hclinicas.dto.*;
+import ec.salud.citas.hclinicas.dto.response.PageResponse;
 
 /**
  * Servicio de gestión de pacientes.

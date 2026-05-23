@@ -1,6 +1,6 @@
 package ec.salud.citas.hclinicas.exception;
 
-import ec.salud.citas.hclinicas.dto.ApiResponse;
+import ec.salud.citas.hclinicas.dto.response.ApiResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

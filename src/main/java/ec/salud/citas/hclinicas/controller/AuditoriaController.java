@@ -1,7 +1,7 @@
 package ec.salud.citas.hclinicas.controller;
 
-import ec.salud.citas.hclinicas.dto.ApiResponse;
-import ec.salud.citas.hclinicas.dto.PageResponse;
+import ec.salud.citas.hclinicas.dto.response.ApiResponse;
+import ec.salud.citas.hclinicas.dto.response.PageResponse;
 import ec.salud.citas.hclinicas.entity.Auditoria;
 import ec.salud.citas.hclinicas.repository.AuditoriaRepository;
 import lombok.RequiredArgsConstructor;

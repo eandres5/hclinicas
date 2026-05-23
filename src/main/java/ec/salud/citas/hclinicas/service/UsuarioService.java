@@ -2,7 +2,7 @@ package ec.salud.citas.hclinicas.service;
 
 import ec.salud.citas.hclinicas.dto.ActualizarUsuarioRequest;
 import ec.salud.citas.hclinicas.dto.CrearUsuarioRequest;
-import ec.salud.citas.hclinicas.dto.PageResponse;
+import ec.salud.citas.hclinicas.dto.response.PageResponse;
 import ec.salud.citas.hclinicas.dto.UsuarioResponse;
 
 /**
